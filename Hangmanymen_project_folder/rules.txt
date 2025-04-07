@@ -1,0 +1,44 @@
+Hangman Game Rules
+Welcome to Hangman! This is a word-guessing game where you try to figure out a hidden word letter by letter before the hangman is complete.
+How to Play:
+
+Choose a difficulty level:
+
+Easy: shorter, common words
+Medium: longer, everyday words
+Hard: challenging, less common words
+Custom: play with your own custom word list
+
+
+Guess letters or the whole word:
+
+Type a single letter to guess if it's in the word
+Type the entire word if you think you know it
+
+
+Scoring system:
+
+You start with 100 points
++10 points for each correct letter
+-10 points for each wrong guess (letter or word)
+Bonus points when guessing the full word (+10 per each unguessed letter)
+Using a hint costs 5 points
+
+
+Hints:
+
+When you have 3 lives remaining, you can request a hint
+A hint will reveal one letter that you haven't guessed yet
+
+
+Game Over:
+
+Win by guessing all letters or the correct word
+Lose by making 6 wrong guesses (completing the hangman)
+If you lose, your final score becomes 0
+
+
+Word Lists:
+
+The game comes with built-in word lists for each difficulty
+You can create and manage your own custom word list
